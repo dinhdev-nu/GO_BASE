@@ -1,1 +1,4 @@
 # GO_BASE
+
+# Struct
+
